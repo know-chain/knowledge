@@ -46,7 +46,7 @@ final: https://youtu.be/YC4Z8Y3jxEg?t=239
 ## Zespoły
 
 
-# WarpAI - handwriting recognition
+### WarpAI - handwriting recognition
 
 demo: https://www.youtube.com/watch?v=wF-BMR9dC60
 
@@ -55,7 +55,7 @@ https://github.com/Slyracoon23/ETHWarsaw-WarpAI
 
 technology used http://linux.ria.ua/mnist_brain/nnTest.html (src https://github.com/ApelSYN/mnist_brain)
 
-# Freech - comments on websites (ArConnect wallet)
+### Freech - comments on websites (ArConnect wallet)
 
 > Freech is a project that enables reading and posting comments on any website on the internet
 
